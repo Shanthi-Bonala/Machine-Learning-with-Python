@@ -6,13 +6,15 @@ Machine Learning concepts and models using python
 ![image](https://user-images.githubusercontent.com/131205829/232904171-8a4e798e-4c79-4d5e-ac9b-5eee5f36cd17.png)
 
 **Artificial Intelligence**
-A technique which enables machines to mimic human behavior. Ex: siri, chess playing computer, tesla self-driving car
+A technique which enables machines to mimic human behavior. Ex: siri, chess playing computer, tesla self-driving car.
+
 **Machine Learning **
 Subset of AI technique which use statistical methods to enable machines to improve with experience.
+
 **Deep Learning**
 Subset of ML which makes the computation of multi- layer neural network feasible.
 
-**Types of Machine Learning**
+****Types of Machine Learning****
 Supervised Learning
 Unsupervised Learning
 Reinforcement Learning
