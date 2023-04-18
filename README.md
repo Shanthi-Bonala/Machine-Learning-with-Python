@@ -15,12 +15,15 @@ Subset of AI technique which use statistical methods to enable machines to impro
 Subset of ML which makes the computation of multi- layer neural network feasible.
 
 ****Types of Machine Learning****
+
 Supervised Learning
 Unsupervised Learning
 Reinforcement Learning
 
 **Supervised Learning**
+
 classification -- Logistic Regression
+
   logistic regression is a supervised classical linear method for binary classification.
   
   ![image](https://user-images.githubusercontent.com/131205829/232905191-7793bd29-a927-4856-b972-4f5d08d65237.png)
